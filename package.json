@@ -1,7 +1,7 @@
 {
-  "name": "@itsukichan/baileys",
-  "version": "7.3.2",
-  "description": "WhatsApp API Modification By Itsukichann",
+  "name": "jywabaileys",
+  "version": "1.0.2",
+  "description": "WhatsApp API Modification By Wjayadana",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
@@ -12,13 +12,13 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/Itsukichann/Baileys",
+  "homepage": "https://github.com/Wjayadana/JywaBaileys",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Itsukichann/Baileys.git"
+    "url": "git+ssh://git@github.com/Wjayadana/JywaBaileys.git"
   },
   "license": "MIT",
-  "author": "Itsukichann",
+  "author": "Wjayadana",
 
   "main": "lib/index.js",
   "files": [
